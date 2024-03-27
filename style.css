@@ -1,0 +1,132 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url(Resources/Backround.jpg);
+
+}
+
+nav{
+    padding: 4px 15px 0px 15px;
+}
+
+.logo{
+    display: inline-block;
+}
+
+.title{
+    display: inline-block;
+    margin: 0px;
+    font-family: verdana;
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: -15px;
+    left: 10px;
+}
+
+.links-con{
+    float: right;
+    position: relative;
+    top: 15px;
+}
+
+.links{
+    text-decoration: none;
+    position: relative;
+    color: white;
+    margin: 25px;
+    font-size: 17px;
+    font-family: verdana;
+    transition: 0.2s;
+}
+
+.links::after{
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: gold;
+    transition: 0.2s;
+    
+}
+
+.links:hover::after{
+    width: 100%;
+}
+
+.links:hover{
+    color: gold;
+}
+
+.wel{
+    position: relative;
+    top: 150px;
+}
+
+.wel h2{
+    font-size: 50px;
+    position: relative;
+    padding: 0;
+    margin: 0;
+    padding-left: 100px;
+}
+
+.come{
+    color: white;
+    font-family: Verdana;
+    padding-left: 100px;
+}
+
+.button1{
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    font-family: verdana;
+    position: relative;
+    top: 200px;
+    left: 110px;
+    padding: 10px 25px;
+    border-radius: 15px;
+    transition: 0.2s;
+
+}
+
+.button1:hover{
+    background-color: gold;
+    color: black;
+    padding: 10px 40px;
+}
+
+.links1{
+    text-decoration: none;
+    color: gold;
+    margin: 25px;
+    font-size: 17px;
+    font-family: verdana;
+}
+
+.links2{
+    text-decoration: none;
+    color: gold;
+    margin: 25px;
+    font-size: 17px;
+    font-family: verdana;
+}
+
+.links3{
+    text-decoration: none;
+    color: gold;
+    margin: 25px;
+    font-size: 17px;
+    font-family: verdana;
+}
+
+.links4{
+    text-decoration: none;
+    color: gold;
+    margin: 25px;
+    font-size: 17px;
+    font-family: verdana;
+}
