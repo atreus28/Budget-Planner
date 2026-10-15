@@ -1,4 +1,5 @@
 A budgeting web app that tracks monthly expenses and visualizes spending goals.
 
-<img width="368" height="208" alt="image" src="https://github.com/user-attachments/assets/c92e27f4-4e15-4eb5-a2ef-416949aab38a" />
+<img width="1256" height="709" alt="{A27E099E-DBE6-45FB-AB7C-9F24598A57ED}" src="https://github.com/user-attachments/assets/87fb1e69-9a79-4215-906d-48449835837d" />
+
 
